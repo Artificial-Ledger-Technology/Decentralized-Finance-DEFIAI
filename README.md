@@ -116,6 +116,12 @@ We would like to express our gratitude and give credit to the following individu
 * [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.27/): The Solidity documentation served as a valuable resource for understanding the Solidity programming language and its features. It provided us with the necessary guidance to write efficient and secure smart contracts.
 * Stack Overflow: A helpful resource for troubleshooting and finding solutions to various coding challenges.
 * [Soneium](https://soneium.org/en/) : Soneium is a Layer 2 scaling solution for the Ethereum blockchain, developed by Sony. It's designed to improve the scalability, security, and usability of the Ethereum network.
+* [SonyNetworkComlabs](https://www.sonynetwork.co.jp/sonynetworkcomlabs/en/) : Soneium functions as a Layer 2 solution for Ethereum, building a network on top of the existing Ethereum Layer 1 and handling data processing, solving issues such as slow data processing speed and increased fees that occur in Layer 1. Additionally, by leveraging OP Stack developed by Optimism Foundation, we are building a scalable, EVM-compatible, and developer-friendly blockchain.
+
+* Layer 2:	By receiving a transaction processing request from the basic layer (layer 1) of the blockchain, performing the processing outside the basic layer, and returning the processing result to L1, the speed and transaction fees incurred in processing on the basic layer can be reduced.
+* Ethereum:	Blockchain platform. The crypto asset Ether (ETH) is used to run the program.
+* OP Stack:	A blockchain development kit using Optimism technology developed for users who want to build their own L2 blockchain.
+* EVM compatible:	An environment that can execute Ethereum smart contracts (a system that automatically executes transactions according to preset rules on the blockchain).
 
 We sincerely appreciate the contributions and support from these individuals and resources. Without them, this project would not have been possible.
 
