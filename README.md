@@ -1,7 +1,30 @@
 # Decentralized Finance (DeFi) powered by AI-ML
 
-# Overview
+## Overview
 Decentralized Finance (DeFi) is a project that aims to provide financial services using blockchain technology in a decentralized manner. This documentation provides an introduction to DeFi and explains the different components and features of the project.
+
+## Key Features required for this Project
+
+### Business Support:
+
+1. Regulatory Compliance: Guidance on navigating the complex regulatory landscape of DeFi and AI, ensuring compliance with relevant laws and regulations.
+2. Partnerships and Collaborations: Assistance in forming strategic partnerships with other DeFi projects, AI/ML companies, and financial institutions to expand your ecosystem.
+3. Business Model Development: Help in refining your revenue model, tokenomics, and pricing strategy to ensure sustainability and competitiveness.
+4. Risk Management: Support in identifying and mitigating potential risks associated with AI/ML integration, such as data privacy and security concerns.
+
+### Technical Support:
+
+1. AI/ML Development: Expertise in developing and integrating AI/ML models, such as predictive analytics, natural language processing, and computer vision.
+2. Smart Contract Development: Assistance in designing and deploying secure, efficient, and scalable smart contracts that leverage AI/ML.
+3. Data Management: Help in designing and implementing a robust data management system to handle large amounts of data from various sources.
+4. Infrastructure Development: Support in building a scalable and secure infrastructure to support your DeFi platform, including cloud services, node management, and network architecture.
+
+### Marketing Support:
+
+1. Brand Development: Help in creating a strong brand identity and messaging that resonates with your target audience.
+2. Content Creation: Assistance in developing high-quality content, such as blog posts, social media posts, and videos, to educate and engage your community.
+3. Community Building: Support in building and managing a community of users, developers, and partners to drive adoption and growth.
+4. Growth Hacking: Expertise in developing and executing growth hacking strategies to acquire new users and increase platform adoption.
 
 ## Getting Started
 
@@ -86,12 +109,14 @@ You can email us at the provided email addresses for any project-related communi
 # Credits
 We would like to express our gratitude and give credit to the following individuals, libraries, and resources that have contributed to the success of this project:
 
-* flexycode : Provided valuable insights and feedback during the development process.
-* flexyledger : Contributed code for the authentication module.
-* 0CottonBuds : Provided valuable insights and feedback for this open-source project
-* OpenZeppelin: The OpenZeppelin library provided us with a robust set of smart contract templates and security best practices, which greatly assisted in the development of our project.
-* Solidity Documentation: The Solidity documentation served as a valuable resource for understanding the Solidity programming language and its features. It provided us with the necessary guidance to write efficient and secure smart contracts.
+* [flexycode](https://github.com/flexycode) : Provided valuable insights and feedback during the development process.
+* [flexyledger](https://github.com/flexyledger) : Contributed code for the authentication module.
+* [0CottonBuds](https://github.com/0CottonBuds) : Provided valuable insights and feedback for this open-source project
+* [OpenZeppelin](https://www.openzeppelin.com/): The OpenZeppelin library provided us with a robust set of smart contract templates and security best practices, which greatly assisted in the development of our project.
+* [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.27/): The Solidity documentation served as a valuable resource for understanding the Solidity programming language and its features. It provided us with the necessary guidance to write efficient and secure smart contracts.
 * Stack Overflow: A helpful resource for troubleshooting and finding solutions to various coding challenges.
+* [Soneium](https://soneium.org/en/) : Soneium is a Layer 2 scaling solution for the Ethereum blockchain, developed by Sony. It's designed to improve the scalability, security, and usability of the Ethereum network.
+
 We sincerely appreciate the contributions and support from these individuals and resources. Without them, this project would not have been possible.
 
 # Appendix
